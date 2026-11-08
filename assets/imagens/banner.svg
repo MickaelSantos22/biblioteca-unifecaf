@@ -1,0 +1,17 @@
+<svg viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bannerGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#10192B"/>
+      <stop offset="100%" stop-color="#14315E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="400" fill="url(#bannerGrad)"/>
+  <g opacity="0.9">
+    <path d="M150 300 L150 140 L230 100 L310 140 L310 300 Z" fill="#E8A33D" opacity="0.15"/>
+    <path d="M330 300 L330 120 L420 80 L510 120 L510 300 Z" fill="#E8A33D" opacity="0.25"/>
+    <path d="M530 300 L530 100 L640 55 L750 100 L750 300 Z" fill="#E8A33D" opacity="0.4"/>
+    <path d="M770 300 L770 130 L860 90 L950 130 L950 300 Z" fill="#E8A33D" opacity="0.25"/>
+    <path d="M970 300 L970 150 L1050 110 L1130 150 L1130 300 Z" fill="#E8A33D" opacity="0.15"/>
+  </g>
+  <line x1="0" y1="300" x2="1200" y2="300" stroke="#F7F5F1" stroke-width="4"/>
+</svg>
